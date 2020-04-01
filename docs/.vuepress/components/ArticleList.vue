@@ -11,7 +11,7 @@ export default {
   computed: {
     articles() {
       return this.$site.pages
-        .filter(article => article.path.startWith('/articles/'))
+        .filter(article => article.path.startsWith('/articles/'))
         .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.date));
     }
   }
