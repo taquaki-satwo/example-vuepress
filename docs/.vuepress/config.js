@@ -1,3 +1,3 @@
 module.exports = {
-  title: 'Hello World!'
+  title: '覚えた言葉'
 }
