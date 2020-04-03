@@ -5,6 +5,8 @@ date: 2020-04-02T03:30:00
 
 # QoS
 
+## 概要
+
 * Quality of Service
 * サービスがどれくらいユーザーを満足させられるかの尺度
 * モデル
@@ -17,6 +19,7 @@ date: 2020-04-02T03:30:00
     * DiffServ や IntServ のアーキテクチャによるQoSが実装されていなかった場合、パケットの内容や
 　サイズに関係なく、先着順にパケットを送出していくベストエフォート型 (= FIFO) が提供される
 
-> https://ja.wikipedia.org/wiki/Quality_of_Service
+## 参考リンク
 
-> https://www.infraexpert.com/study/telephony6.html
+* [Quality of Service - Wikipedia](https://ja.wikipedia.org/wiki/Quality_of_Service)
+* [QoS（Quality of Service）とは](https://www.infraexpert.com/study/telephony6.html)

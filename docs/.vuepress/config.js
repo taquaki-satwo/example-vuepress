@@ -1,3 +1,3 @@
 module.exports = {
-  title: '覚えた言葉の覚書'
+  title: 'SREになるために覚えた用語'
 }
